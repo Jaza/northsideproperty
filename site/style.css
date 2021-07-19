@@ -1,0 +1,33 @@
+/* This web site created by Jeremy Epstein for commercial use
+by Peter Miller, the proprietor of Northside Property Management.
+It can be copied or modified for non-commercial use, but cannot be
+used for profit. 
+
+This document sets the style for the entire Northside Property 
+Management web site. For help with creating style sheets, visit
+http://www.jalfrezi.com/ or download NoteTab Light from
+http://download.cnet.com/ */
+
+CITE                   {font-family: Sans-Serif;
+font-size: small; color: 000000; font-style: normal;}
+
+SMALL                  {font-size: xx-small;}
+
+BIG                    {font-family: cursive;
+font-size: medium; color: C0C0C0;}
+
+H1, H2, H3, H4, H5, H6 {font-family: Bookman Old Style, Palatino, Monospace;
+font-weight: bold; font-style: normal; font-variant: normal;
+text-decoration: none; color: C0C0C0; text-align: center;}
+
+BODY                   {background: white;
+background-image: url(bgline.gif); background-repeat: repeat;
+margin-top: 15px; margin-left: 30px; margin-right: 0px;
+margin-bottom: 0px;}
+
+A:HOVER                {color: FF0000; border-color: FF0000; text-decoration: none;
+background-color: 8080FF;}
+A:LINK                 {color: 000080; text-decoration: none;}
+A:VISITED              {color: 004000; text-decoration: none;}
+A:ACITVE               {color: FF0000; text-decoration: none;}
+
